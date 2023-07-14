@@ -1,6 +1,7 @@
 # 支持主题（包括暗黑模式、灰度模式）、国际化（包括ElementPlus）、Axios简单封装、AppStore、UserStore的简单Frame
 
 ### 目录结构
+```
 .
 └── frame
     ├── axios           // Axios简单封装
@@ -13,6 +14,7 @@
     ├── utils
     ├── index.less
     └── index.ts
+```
 
 ### 依赖
 - node v16.20.1
